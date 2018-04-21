@@ -4,6 +4,7 @@ Like Go, Chinese chess is an ancient chess game, After I trained a CNN model to 
 So I trained a CNN to do the same thing in chinese chess. I played with it, Althrough the network preduces some interesting result, it is not strong enough, in the 10 games I played with the Neural network, I win all of them by large margin.
 
 Here are the first five move in a CNN self-play:
+
 ![](./img/play1.PNG)
 ![](./img/play2.PNG)
 ![](./img/play3.PNG)
